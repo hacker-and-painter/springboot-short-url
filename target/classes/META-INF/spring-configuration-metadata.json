@@ -1,0 +1,64 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "org.hackerandpainter.config.RedisConfigProperties",
+      "name": "redis",
+      "type": "org.hackerandpainter.config.RedisConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "org.hackerandpainter.config.RedisConfigProperties",
+      "defaultValue": 0,
+      "name": "redis.database",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.hackerandpainter.config.RedisConfigProperties",
+      "name": "redis.host",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.hackerandpainter.config.RedisConfigProperties",
+      "defaultValue": 0,
+      "name": "redis.max-active",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.hackerandpainter.config.RedisConfigProperties",
+      "defaultValue": 0,
+      "name": "redis.max-idle",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.hackerandpainter.config.RedisConfigProperties",
+      "defaultValue": 0,
+      "name": "redis.max-wait",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.hackerandpainter.config.RedisConfigProperties",
+      "defaultValue": 0,
+      "name": "redis.min-idle",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.hackerandpainter.config.RedisConfigProperties",
+      "name": "redis.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.hackerandpainter.config.RedisConfigProperties",
+      "defaultValue": 0,
+      "name": "redis.port",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.hackerandpainter.config.RedisConfigProperties",
+      "defaultValue": 0,
+      "name": "redis.timeout",
+      "type": "java.lang.Integer"
+    }
+  ]
+}
